@@ -1,8 +1,8 @@
-## About Me
+## 👋 About Me
 Currently a FiveM developer.
 
 
-## Skills
+## 🍄 Languages
 <p align="center">
 <img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/png/dev/tools/visualstudio_code.png"/>
 <img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/png/dev/languages/html.png"/>
