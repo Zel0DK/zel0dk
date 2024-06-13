@@ -1,5 +1,5 @@
 ## 👋 About Me
-Currently a FiveM developer.
+Currently a FiveM and RedM developer.
 
 
 ## 🍄 Languages
